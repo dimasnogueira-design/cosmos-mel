@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cosmosmeldobrasil.com.br/sitemap.xml

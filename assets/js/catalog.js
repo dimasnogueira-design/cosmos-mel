@@ -1,0 +1,140 @@
+window.COSMOS_PRODUCTS = {
+  "mel-250g": {
+    slug: "mel-florada-silvestre-250g.html",
+    category: "Mel",
+    name: "Mel Florada Silvestre",
+    subtitle: "250g",
+    short: "Mel multifloral puro, artesanal e não aquecido, produzido no Apiário Lambari, Sul de Minas Gerais.",
+    eyebrow: "Florada Especial",
+    image: "assets/images/produtos/mel-250g.webp",
+    weight: "250g",
+    honeyGrams: 250,
+    origin: "Apiário Lambari • Sul de Minas Gerais",
+    facts: [
+      "Mel 100% natural",
+      "Florada silvestre",
+      "Colheita artesanal",
+      "Sem aditivos ou misturas",
+      "Produção com máxima assepsia",
+      "Produto não aquecido"
+    ],
+    description: "Extraído de colmeias instaladas em área de mata preservada no Sul de Minas Gerais. O perfil de sabor, aroma, textura e coloração pode variar conforme a florada e a estação — característica natural de um mel verdadeiro.",
+    usage: "Perfeito para uso diário, presente, receitas e para quem valoriza alimentos artesanais de origem conhecida.",
+    marketUrl: "https://www.mercadolivre.com.br/mel-puro-florada-silvestre-250g-artesanal-apiario-lambari-mg/up/MLBU3770198866",
+    items: ["mel-250g"]
+  },
+  "mel-500g": {
+    slug: "mel-florada-silvestre-500g.html",
+    category: "Mel",
+    name: "Mel Florada Silvestre",
+    subtitle: "500g",
+    short: "Mel puro de florada silvestre, produzido artesanalmente nas montanhas do Sul de Minas Gerais.",
+    eyebrow: "Florada Especial",
+    image: "assets/images/produtos/mel-500g.webp",
+    weight: "500g",
+    honeyGrams: 500,
+    origin: "Apiário Lambari • Sul de Minas Gerais",
+    facts: [
+      "Mel 100% puro e natural",
+      "Florada silvestre",
+      "Produção artesanal",
+      "Sem adição de açúcar ou conservantes",
+      "Produto não aquecido",
+      "Origem controlada diretamente do apiário"
+    ],
+    description: "Resultado do néctar de diversas flores nativas da Serra da Mantiqueira. Cada lote reflete a estação e a riqueza do ambiente, com sabor equilibrado, aroma suave e coloração naturalmente variável.",
+    usage: "Ideal para consumo diário, chás, receitas naturais e uso culinário.",
+    marketUrl: "https://www.mercadolivre.com.br/mel-puro-florada-silvestre-500g-artesanal-apiario-lambari-mg/p/MLB2085679061",
+    items: ["mel-500g"]
+  },
+  "propolis-30ml": {
+    slug: "propolis-verde-30ml.html",
+    category: "Própolis",
+    name: "Extrato de Própolis Verde",
+    subtitle: "30 ml",
+    short: "Extrato produzido a partir de própolis verde de origem sul-mineira, em frasco de 30 ml.",
+    eyebrow: "Origem Sul de Minas",
+    image: "assets/images/produtos/propolis-30ml.webp",
+    weight: "30 ml",
+    honeyGrams: 0,
+    origin: "Sul de Minas Gerais",
+    facts: [
+      "Volume de 30 ml",
+      "Própolis verde brasileira",
+      "Matéria-prima do Sul de Minas",
+      "Associada ao alecrim-do-campo",
+      "Processo cuidadoso de extração",
+      "Sem sabor adicionado"
+    ],
+    description: "Produzido a partir de própolis in natura coletada no Sul de Minas Gerais, região ligada ao alecrim-do-campo (Baccharis dracunculifolia), uma das principais fontes botânicas da própolis verde brasileira.",
+    usage: "Consulte a rotulagem do produto e as orientações aplicáveis antes do consumo.",
+    marketUrl: "https://www.mercadolivre.com.br/extrato-de-propolis-verde-green-propolis-30ml/up/MLBU3802706201",
+    items: ["propolis-30ml"]
+  },
+  "kit-natural": {
+    slug: "kit-natural-250g-propolis.html",
+    category: "Kit",
+    name: "Kit Natural",
+    subtitle: "Mel 250g + Própolis 30 ml",
+    short: "Uma combinação compacta com mel florada silvestre 250g e extrato de própolis verde 30 ml.",
+    eyebrow: "Seleção Cosmos",
+    image: "assets/images/produtos/kit-natural.webp",
+    weight: "2 produtos",
+    honeyGrams: 250,
+    origin: "Sul de Minas Gerais",
+    facts: [
+      "1 Mel Florada Silvestre 250g",
+      "1 Extrato de Própolis Verde 30 ml",
+      "Produtos de origem sul-mineira",
+      "Combinação prática para conhecer a linha Cosmos"
+    ],
+    description: "O kit reúne o Mel Florada Silvestre 250g e o Extrato de Própolis Verde 30 ml em uma única seleção.",
+    usage: "Consulte disponibilidade, preço atual e condições de compra no canal oficial.",
+    marketUrl: "https://www.mercadolivre.com.br/kit-natural-mel-puro-florada-silvestre-250g--extrato-de-propolis-verde-30ml/up/MLBU3802744979",
+    items: ["mel-250g", "propolis-30ml"]
+  },
+  "kit-saude": {
+    slug: "kit-saude-natural-500g-propolis.html",
+    category: "Kit",
+    name: "Kit Saúde Natural",
+    subtitle: "Mel 500g + Própolis 30 ml",
+    short: "Mel florada silvestre 500g e extrato de própolis verde 30 ml em uma seleção completa.",
+    eyebrow: "Seleção Cosmos",
+    image: "assets/images/produtos/kit-saude-natural.webp",
+    weight: "2 produtos",
+    honeyGrams: 500,
+    origin: "Sul de Minas Gerais",
+    facts: [
+      "1 Mel Florada Silvestre 500g",
+      "1 Extrato de Própolis Verde 30 ml",
+      "Mel do Apiário Lambari",
+      "Própolis verde de origem sul-mineira"
+    ],
+    description: "Uma seleção que reúne dois produtos da linha Cosmos: mel florada silvestre 500g e extrato de própolis verde 30 ml.",
+    usage: "Consulte disponibilidade, preço atual e condições de compra no canal oficial.",
+    marketUrl: "https://www.mercadolivre.com.br/kit-saude-natural-mel-puro-florada-silvestre-500g--extrato-de-propolis-verde-30ml/up/MLBU3802852901",
+    items: ["mel-500g", "propolis-30ml"]
+  },
+  "kit-lambari": {
+    slug: "kit-lambari.html",
+    category: "Kit",
+    name: "Kit Lambari",
+    subtitle: "500g + 250g + Própolis 30 ml",
+    short: "A seleção mais completa da linha: os dois tamanhos de mel e o extrato de própolis verde.",
+    eyebrow: "Seleção completa",
+    image: "assets/images/produtos/kit-lambari.webp",
+    weight: "3 produtos",
+    honeyGrams: 750,
+    origin: "Lambari • Sul de Minas Gerais",
+    facts: [
+      "1 Mel Florada Silvestre 500g",
+      "1 Mel Florada Silvestre 250g",
+      "1 Extrato de Própolis Verde 30 ml",
+      "A linha principal Cosmos reunida em um kit"
+    ],
+    description: "O Kit Lambari reúne Mel Florada Silvestre 500g, Mel Florada Silvestre 250g e Extrato de Própolis Verde 30 ml.",
+    usage: "Consulte disponibilidade, preço atual e condições de compra no canal oficial.",
+    marketUrl: "https://www.mercadolivre.com.br/kit-lambari-mel-puro-florada-silvestre-500g--mel-puro-florada-silvestre-250g--extrato-propolis-verde-30ml/up/MLBU3819274228",
+    items: ["mel-500g", "mel-250g", "propolis-30ml"]
+  }
+};
